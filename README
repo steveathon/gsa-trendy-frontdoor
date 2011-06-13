@@ -2,7 +2,7 @@
 
 The GSA is an exceptionally powerful tool, however when you are using it as a primary search destination the front door page is a bit boring.
 
-This code adds the functionality to your GSA to use the power of [YQL](https://github.com/yql/yql-tables) to display results from your GSA that are currently trending on Twitter on the Frontpage.
+This code adds the functionality to your GSA to use the power of [YQL](https://github.com/yql/yql-tables) to display results FROM your GSA that are realted to the trending topics on Twitter, right on the Frontpage of your Search Appliance. 
 
 By showing results from your index, you can be sure that users will find what they are looking for faster and more relevant to the current trends on the general internet.
 
